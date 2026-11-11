@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "wfcd-1.1276.50-20261110",
+  "catalogVersion": "wfcd-1.1276.50-20261111",
   "minAppVersion": "0.6.2",
   "files": {
     "tradeable-catalog.json": {
-      "sha256": "06a532e46f12f237934134831d153af78518136e6d8cb1cf6dbfdcebe3f3f4b6",
+      "sha256": "b4d305db71bfb5ac8cf0c7b6781104850bc4f203357cd61afe468cccde13cb02",
       "url": "https://raw.githubusercontent.com/Naoriii/lotus-relic-lens-data/main/latest/tradeable-catalog.json"
     },
     "relic-catalog.json": {
-      "sha256": "0a89daf4be211058e70e0b6602069e3ba89456eb90024576bb593b7bfb627e3e",
+      "sha256": "b20bba972ba8e387667447cfe3bdc72f4696f0afa172a2c570e15b3f5053aa04",
       "url": "https://raw.githubusercontent.com/Naoriii/lotus-relic-lens-data/main/latest/relic-catalog.json"
     }
   }
